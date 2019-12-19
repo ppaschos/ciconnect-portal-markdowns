@@ -1,1 +1,1 @@
-Sign Up for CMS Connect testing webhooks
+Sign Up for CMS Connect
