@@ -1,4 +1,4 @@
-To join CMS Connect, you will need to possess, either an institutional ID
+To join CMS Connect, you will need to possess an institutional ID.
 
 1. Visit the CMS Connect sign up page by clicking on the Continue button below.
 
