@@ -1,1 +1,1 @@
-Front door to CMS
+Front door to the CMS Global Pool
