@@ -1,1 +1,1 @@
-CI Connect has a fast, high-volume file storage service that connects your data anywhere you need it to be. Stash your input data for processing and write output from your jobs for later retrieval back to your home institution.
+CI Connect has a fast, high-volume file storage service that connects your data anywhere you need it to be. Stash your input data for processing and write output from your jobs for later retrieval back to your home institution. CI Connect provides individually branded portals, as support for collaborations and campuses.
