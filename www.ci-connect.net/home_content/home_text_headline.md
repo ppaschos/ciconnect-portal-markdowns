@@ -1,1 +1,1 @@
-Front door to CI Connect
+Supporting Collaborations and Campuses
