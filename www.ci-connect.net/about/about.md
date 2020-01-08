@@ -1,1 +1,1 @@
-About CI-Connect content
+About CI-Connect content goes here
