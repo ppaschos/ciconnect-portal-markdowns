@@ -1,48 +1,47 @@
-Your use of CMS Connect shall imply acceptance of the following agreement:
+By registering as a user you declare that you have read, understood and will
+abide by the following conditions of use:
 
-`
-I have read and agree to the terms and conditions of the WLCG Computing Grid Acceptable Use Policy.
-`
+1) You shall only use the resources/services to perform work, or transmit or
+store data consistent with the stated goals, policies and conditions of use as
+defined by the body or bodies granting you access.
 
-By registering with the Virtual Organization (the "VO") as a GRID user you shall
-be deemed to accept these conditions of use:
+2) You shall provide appropriate acknowledgement of support or citation for your
+use of the resources/services provided as required by the body or bodies
+granting you access.
 
-1) You shall only use the GRID to perform work, or transmit or store data
-consistent with the stated goals and policies of the VO of which you are a
-member and in compliance with these conditions of use.
+3) You shall not use the resources/services for any purpose that is unlawful
+and not (attempt to) breach or circumvent any administrative or security controls.
 
-2) You shall not use the GRID for any unlawful purpose and not (attempt to)
-breach or circumvent any GRID administrative or security controls. You shall
-respect copyright and confidentiality agreements and protect your GRID
-credentials (e.g. private keys, passwords), sensitive data and files.
+4) You shall respect intellectual property and confidentiality agreements.
 
-3) You shall immediately report any known or suspected security breach or
-misuse of the GRID or GRID credentials to the incident reporting locations
-specified by the VO and to the relevant credential issuing authorities.
+5) You shall protect your access credentials (e.g. private keys or passwords).
 
-4) Use of the GRID is at your own risk. There is no guarantee that the GRID
-will be available at any time or that it will suit any purpose.
+6) You shall keep all your registered information correct and up to date.
 
-5) Logged information, including information provided by you for registration
-purposes, shall be used for administrative, operational, accounting, monitoring
-and security purposes only. This information may be disclosed to other
-organizations anywhere in the world for these purposes. Although efforts are
-made to maintain confidentiality, no guarantees are given.
+7) You shall immediately report any known or suspected security breach or
+misuse of the resources/services or access credentials to the specified
+incident reporting locations and to the relevant credential issuing authorities.
 
-6) The Resource Providers, the VOs and the GRID operators are entitled to
-regulate and terminate access for administrative, operational and security
-purposes and you shall immediately comply with their instructions.
+8) You use the resources/services at your own risk. There is no guarantee that the
+resources/services will be available at any time or that their integrity or
+confidentiality will be preserved or that they will suit any purpose.
 
-7) You are liable for the consequences of any violation by you of these
-conditions of use.
+9) You agree that logged information, including personal data provided by you
+for registration purposes, may be used for administrative, operational,
+accounting, monitoring and security purposes.
 
-## VO Acceptable Use Policy For CMS
-This Acceptable Use Policy applies to all members of the CMS Virtual
-Organisation, hereafter referred to as the VO, with reference to use of the
-LCG/EGEE Grid infrastructure, hereafter referred to as the Grid. The CMS
-Collaboration owns and gives authority to this policy. The goal of the VO is to
-allow members of the CMS collaboration to perform all the computing activities
-relevant for the CMS experiment and the analysis of the data collected by it.
-Members and Managers of the VO agree to be bound by the Grid Acceptable Usage
-Rules, VO Security Policy and other relevant Grid Policies, and to use the Grid
-only in the furtherance of the stated goal of the VO.
+10) You agree that this logged information may be disclosed to other authorised
+participants via secured mechanisms, only for the same purposes and only as far
+as necessary to provide the services.
+
+11) You agree that the body or bodies granting you access and resource/service
+providers are entitled to regulate, suspend or terminate your access without
+prior notice and without compensation, within their domain of authority, and
+you shall immediately comply with their instructions.
+
+12) You are liable for the consequences of your violation of any of these
+conditions of use, which may include but are not limited to the reporting of
+your violation to your home institute and, if the activities are thought to
+be illegal, to appropriate law enforcement agencies.
+
+These policies are derived from EGI Document 2623-v4
