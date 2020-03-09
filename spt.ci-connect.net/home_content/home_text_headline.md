@@ -1,2 +1,1 @@
-<!-- Cyberinfrastructure for accelerated research -->
-Front door to the Open Science Grid
+Front door to SPT Connect
