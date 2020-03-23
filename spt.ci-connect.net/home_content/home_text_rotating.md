@@ -1,1 +1,1 @@
-Access free opportunistic cycles/ Researcher facilitation/ High throughput computing
+Login to Scott and Amundsen/ Submit user-defined scripts via HTCondor/ Access the Open Science Grid
