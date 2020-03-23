@@ -1,1 +1,1 @@
-Front door to SPT Connect
+Front door to SPT Computing Resources
