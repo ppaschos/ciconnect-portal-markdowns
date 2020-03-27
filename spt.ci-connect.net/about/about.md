@@ -1,4 +1,4 @@
-## SPT CI Connect
+## SPT Connect
 
 The South Pole Telescope (or SPT) is a telescope deployed at the South Pole
 that is designed to study the Cosmic Microwave background. Constructed between
